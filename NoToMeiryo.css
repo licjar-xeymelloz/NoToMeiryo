@@ -1,0 +1,3 @@
+:not(i, span.katex, span.katex *) {
+    font-family: "Droid Serif", "Yu Mincho" !important
+}
